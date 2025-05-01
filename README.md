@@ -1,4 +1,9 @@
 # Python-ML-Customer-Segmentation-Clustering
+<br>
+<h2><b>This project aims to group customers based on their annual income and mall spending score to find key shopper types and help improve marketing efforts.</b></h2>
+<br>
+<br>
+
 This project applies K-Means clustering to segment mall customers based on age, income, and spending score — final clusters are visualized below:
 
 ![image](https://github.com/user-attachments/assets/18326ef5-5790-4e72-bb03-abca20b92673)
